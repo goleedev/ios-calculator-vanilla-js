@@ -1,0 +1,19 @@
+{
+  "name": "iamdt-screening-tests",
+  "version": "1.0.0",
+  "description": "iamdt-screening-tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "jest-environment-jsdom": "^29.5.0"
+  }
+}
