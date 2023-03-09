@@ -1,0 +1,88 @@
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+:root {
+  --extra-gray-btn-color: #a5a5a5;
+  --operator-orange-btn-color: #f1a43c;
+  --background-color: #000000;
+  --number-dark-gray-btn-color: #333333;
+  --display-white-color: #fffefe;
+}
+
+body {
+  background-color: var(--display-white-color);
+  color: var(--display-white-color);
+  height: 100%;
+  width: 100%;
+  min-width: 320px;
+  -webkit-text-size-adjust: none;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+button {
+  border: none;
+  font-size: 50px;
+  vertical-align: middle;
+}
+
+/* Reset */
+* {
+  outline: 0 !important;
+}
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+div,
+p,
+blockquote,
+pre,
+code,
+address,
+ul,
+ol,
+li,
+menu,
+nav,
+section,
+article,
+aside,
+dl,
+dt,
+dd,
+table,
+thead,
+tbody,
+tfoot,
+label,
+caption,
+th,
+td,
+form,
+fieldset,
+legend,
+hr,
+input,
+button,
+textarea,
+object,
+figure,
+figcaption {
+  margin: 0;
+  padding: 0;
+}
+main,
+header,
+section,
+nav,
+footer,
+aside,
+article,
+figure {
+  display: block;
+}
