@@ -1,6 +1,6 @@
 # 구현 과제 : 계산기 구현
 
-![실행모습](public/assets/test.mp4)
+![실행모습](./public/assets/test.mp4)
 ## 실행 방법
 
 ### html Open
