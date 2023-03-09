@@ -1,5 +1,9 @@
 # 구현 과제 : 계산기 구현
 
+
+https://user-images.githubusercontent.com/52603436/224053107-752e7877-cd5b-4c4c-80b5-8da31fcbf383.mp4
+
+
 ## 실행 방법
 
 ### html Open
