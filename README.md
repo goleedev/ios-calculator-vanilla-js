@@ -1,6 +1,9 @@
 # 구현 과제 : 계산기 구현
 
-![실행모습](public/assets/test.mp4)
+<div align="center">
+  <img src='public/assets/test.mp4' alt="test" width="250" >
+</div>
+
 ## 실행 방법
 
 ### html Open
